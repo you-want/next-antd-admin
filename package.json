@@ -14,11 +14,11 @@
   ],
   "homepage": "",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/you-want/next-antd-admin/issues"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/you-want/next-antd-admin"
   },
   "license": "MIT",
   "scripts": {
